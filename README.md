@@ -1,2 +1,2 @@
-# VueJalali
-Jalali calendar plugin for Vue.js v2
+# Vue.js Jalali Plugin
+Jalali calendar plugin for _Vue.js v2_
